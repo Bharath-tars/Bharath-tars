@@ -21,6 +21,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bharath-tars&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+[![An image of @bharathtars's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bharathtars)](https://holopin.io/@bharathtars)
+
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
