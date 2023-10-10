@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 currently working on DeepTumor and TARS.AI<br>👯 looking to collaborate on 4.0 TECH and Business Stuff<br>🤝 I’m looking for tech enthusiasts who can team up with me<br>🌱 currently learning Google Cloud and Recommendation Systems<br>⚡ Fun fact: I'm a Rocket Science and AI enthusiast don't ask me why because I adore Elon Musk!
+🔭 currently working on DiabSynth and TARS.AI<br>👯 looking to collaborate on 4.0 TECH and Business Stuff<br>🤝 I’m looking for tech enthusiasts who can team up with me<br>🌱 currently learning Google Cloud and Recommendation Systems<br>⚡ Fun fact: I'm a Rocket Science and AI enthusiast don't ask me why because I adore Elon Musk!
 
 
 ## 🌐 Socials:
