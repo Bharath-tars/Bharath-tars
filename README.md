@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 currently working on Automatic video content generation using Generative AI<br>👯 looking to collaborate on Generative AI and Open Innovative projects<br>🤝 I’m looking for tech enthusiasts who can team up with me<br>🌱 currently learning Agentic AI Workflows<br>⚡ Fun fact: I'm a Rocket Science and AI enthusiast don't ask me why because I adore Elon Musk!
+🔭 currently working on Automatic video content generation using Generative AI<br>👯 looking to collaborate on Generative AI and Open Innovative projects<br>🤝 I’m looking for tech enthusiasts who can team up with me<br>🌱 currently learning Agentic AI Workflows<br>⚡ Fun fact: 50% of my projects private :) and I'm a Rocket Science enthusiast don't ask me why because I adore Elon Musk!
 
 
 ## 🌐 Socials:
